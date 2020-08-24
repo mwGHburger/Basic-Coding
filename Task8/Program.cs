@@ -6,22 +6,22 @@ namespace Task8
     {
         static void Main(string[] args)
         {
-            Random rnd = new Random();
             Console.WriteLine("I'm thinking of a number, can you guess it? ");
             int input = Convert.ToInt32(Console.ReadLine());
+            Random rnd = new Random();
             int secret = rnd.Next(1,100);
             int count = 1;
             while( input != secret) {
                 if (input > secret)
                 {
-                    Console.WriteLine("Your number is larger than what I'm thinking of...");
+                    Console.WriteLine("Your number is LARGER than what I'm thinking of...");
                 }
                 else
                 {
-                    Console.WriteLine("Your number is smaller than what I'm thinking of...");
+                    Console.WriteLine("Your number is SMALLER than what I'm thinking of...");
                 }
-                Console.Write("Try guessing again: ");
                 int previousGuess = input;
+                Console.Write("Try guessing again: ");
                 input = Convert.ToInt32(Console.ReadLine());
                 if (input != previousGuess)
                 {
