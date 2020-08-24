@@ -1,0 +1,12 @@
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/bin/Debug/netcoreapp3.1/Task8.deps.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/bin/Debug/netcoreapp3.1/Task8.runtimeconfig.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/bin/Debug/netcoreapp3.1/Task8.runtimeconfig.dev.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/bin/Debug/netcoreapp3.1/Task8.dll
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/bin/Debug/netcoreapp3.1/Task8.pdb
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/obj/Debug/netcoreapp3.1/Task8.csprojAssemblyReference.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/obj/Debug/netcoreapp3.1/Task8.AssemblyInfoInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/obj/Debug/netcoreapp3.1/Task8.AssemblyInfo.cs
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/obj/Debug/netcoreapp3.1/Task8.csproj.CoreCompileInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/obj/Debug/netcoreapp3.1/Task8.dll
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/obj/Debug/netcoreapp3.1/Task8.pdb
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task8/obj/Debug/netcoreapp3.1/Task8.genruntimeconfig.cache
