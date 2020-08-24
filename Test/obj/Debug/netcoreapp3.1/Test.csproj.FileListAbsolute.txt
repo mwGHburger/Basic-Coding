@@ -1,0 +1,12 @@
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/bin/Debug/netcoreapp3.1/Test.deps.json
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.json
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.dev.json
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/bin/Debug/netcoreapp3.1/Test.dll
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/bin/Debug/netcoreapp3.1/Test.pdb
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/obj/Debug/netcoreapp3.1/Test.csprojAssemblyReference.cache
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfoInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfo.cs
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/obj/Debug/netcoreapp3.1/Test.csproj.CoreCompileInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/obj/Debug/netcoreapp3.1/Test.dll
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/obj/Debug/netcoreapp3.1/Test.pdb
+/Users/Michael.Wang/Desktop/MYOB/Kata/Foundational/Basic Coding/Test/obj/Debug/netcoreapp3.1/Test.genruntimeconfig.cache
