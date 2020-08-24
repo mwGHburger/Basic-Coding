@@ -11,6 +11,7 @@ namespace Task8
             Random rnd = new Random();
             int secret = rnd.Next(1,100);
             int count = 1;
+
             while( input != secret) {
                 if (input > secret)
                 {
@@ -28,6 +29,7 @@ namespace Task8
                     count++;
                 }
             }
+            
             Console.WriteLine($"Correct! You guess that correct number and it took you {count} tries.");
         }
     }
