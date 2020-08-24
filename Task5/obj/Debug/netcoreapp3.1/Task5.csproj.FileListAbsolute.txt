@@ -1,0 +1,12 @@
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/bin/Debug/netcoreapp3.1/Task5.deps.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/bin/Debug/netcoreapp3.1/Task5.runtimeconfig.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/bin/Debug/netcoreapp3.1/Task5.runtimeconfig.dev.json
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/bin/Debug/netcoreapp3.1/Task5.dll
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/bin/Debug/netcoreapp3.1/Task5.pdb
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/obj/Debug/netcoreapp3.1/Task5.csprojAssemblyReference.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/obj/Debug/netcoreapp3.1/Task5.AssemblyInfoInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/obj/Debug/netcoreapp3.1/Task5.AssemblyInfo.cs
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/obj/Debug/netcoreapp3.1/Task5.csproj.CoreCompileInputs.cache
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/obj/Debug/netcoreapp3.1/Task5.dll
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/obj/Debug/netcoreapp3.1/Task5.pdb
+/Users/Michael.Wang/Desktop/MYOB/Reference Kata/Foundational/Basic Coding/Task5/obj/Debug/netcoreapp3.1/Task5.genruntimeconfig.cache
